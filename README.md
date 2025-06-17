@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Sibai.
+I have a personal site: [Sibai](https://sibai.me)
+
+I am into History, Biology and Tech.
+
 <!--
 **sibaiper/sibaiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
